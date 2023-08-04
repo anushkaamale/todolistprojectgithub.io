@@ -1,0 +1,103 @@
+
+.Screen{
+  width: 100%;
+  height: 550px;
+  overflow:none ;
+  background-color: aquamarine;
+  
+}
+ ul li{
+ 
+
+ justify-content: space-evenly;
+ margin-bottom: -45px; 
+ position: relative;
+ left:-15px;
+}
+input  {
+ 
+  position: relative; 
+  left:-6px;
+  height: 30px;
+  right:2px;
+ 
+  border:1px solid pink;
+  border-radius: 10px;
+  outline: none;
+ 
+  
+}
+i{
+  
+  position: relative;
+  right:12px;
+  top:-25px;
+ margin-left: 295px;
+ 
+ 
+}
+.card{
+  
+  width:600;
+  height:400px;
+  position: relative;
+  top:55px;
+  
+  
+}
+ 
+ 
+.heading h3{
+  
+  position: absolute;
+  top:20px;
+  left:100px;
+  
+}
+  
+
+
+ 
+
+.card-header{
+  background-color:pink;
+  height:60px;
+
+}
+button{
+  position: relative;
+  bottom:5px;
+ left:255px;
+ justify-content: flex-end;
+}
+
+.fa-trash{
+  position: relative;
+  right:30px;
+  top:-50px;
+  left:-57px; 
+}
+.fa-edit{
+  left:-30px; 
+}
+
+
+.card-body{
+overflow-x: hidden;
+overflow-y: auto;
+}
+ 
+.box{
+  outline: none;
+ 
+ 
+}
+
+.box:hover{
+  box-shadow: 2px solid transparent;
+  
+  box-shadow: 2px 2px 2px  1px;
+ border: 2px solid orange;
+ border-bottom: none;
+ border-right: none;
+}
